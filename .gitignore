@@ -1,0 +1,7 @@
+auth-module/node_modules
+crud-manager/node_modules
+crud-module/node_modules
+
+auth-module/.env
+crud-manager/.env
+crud-module/.env
